@@ -7,16 +7,16 @@
 </h3>
 
 <p align="center">
-  <img alt="Languagues" src="https://img.shields.io/github/languages/count/ArthurPedroti/git-explorer">
-  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/ArthurPedroti/git-explorer">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurPedroti/git-explorer">
-  <a href="https://github.com/ArthurPedroti/git-explorer/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/ArthurPedroti/git-explorer">
+  <img alt="Languagues" src="https://img.shields.io/github/languages/count/ArthurPedroti/go-finances">
+  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/ArthurPedroti/go-finances">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurPedroti/go-finances">
+  <a href="https://github.com/ArthurPedroti/go-finances/commits/master">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/ArthurPedroti/go-finances">
   </a>
-   <a href="https://github.com/ArthurPedroti/git-explorer/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ArthurPedroti/git-explorer">
+   <a href="https://github.com/ArthurPedroti/go-finances/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/ArthurPedroti/go-finances">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/ArthurPedroti/git-explorer">
+  <img alt="License" src="https://img.shields.io/github/license/ArthurPedroti/go-finances">
 </p>
 <p align="center">
 
@@ -40,7 +40,6 @@
 </p>
 
 <p align="center">
-<a href="#rocket-environment">Environment</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-languages">Languages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -48,17 +47,13 @@
   <a href="#memo-license">License</a>
 </p>
 
-## :rocket: Environment
-
-- **https://atp-git-explorer.netlify.app/**
-
 ## :computer: Languages
 
 - **#TypeScript**
 
 ## :books: Technologies
 
-- **#Github-API**
+- **#React**
 - **#ESLint**
 - **#Prettier**
 - **#Styled-Components**
@@ -85,7 +80,7 @@ yarn start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ArthurPedroit/git-explorer/issues). You can also take a look at the [contributing guide](https://github.com/ArthurPedroit/git-explorer/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ArthurPedroit/go-finances/issues). You can also take a look at the [contributing guide](https://github.com/ArthurPedroit/go-finances/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -94,7 +89,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Arthur Pedroti](https://github.com/ArthurPedroti).<br />
-This project is [MIT](https://github.com/ArthurPedroit/git-explorer/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/ArthurPedroit/go-finances/blob/master/LICENSE) licensed.
 
 ---
 
